@@ -6,7 +6,7 @@ public class UC3_OOPS_Banner {
         );
 
         String l2 = String.join("   ",
-                " *    * ", " *    * ", " *    * ", " *      " 
+                " *    * ", " *    * ", " *    * ", " *      "
         );
 
         String l3 = String.join("   ",
